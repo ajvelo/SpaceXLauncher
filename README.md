@@ -99,11 +99,21 @@ flutter run test/launches_bloc_test.dart
 <img src="./assets/demo-test.png" alt="Test" width="900" height="200">
 
 ### iOS Demo
+
+<p align="center">
 <img src="./assets/ios/home.png" alt="Home" width="200" height="450">
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./assets/ios/current-launch.png" alt="Current Launch" width="200" height="450">
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./assets/ios/favorites.png" alt="Favorites" width="200" height="450">
+</p>
 
 ### Android Demo
+
+<p align="center">
 <img src="./assets/android/home.png" alt="Home" width="200" height="450">
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./assets/android/current-launch.png" alt="Current Launch" width="200" height="450">
+&nbsp; &nbsp; &nbsp; &nbsp;
 <img src="./assets/android/favorites.png" alt="Favorites" width="200" height="450">
+</p>
